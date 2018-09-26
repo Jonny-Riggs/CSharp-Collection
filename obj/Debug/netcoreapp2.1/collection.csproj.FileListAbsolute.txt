@@ -1,0 +1,11 @@
+/Users/JonnyRiggs/workspace/csharp/collection/bin/Debug/netcoreapp2.1/collection.deps.json
+/Users/JonnyRiggs/workspace/csharp/collection/bin/Debug/netcoreapp2.1/collection.runtimeconfig.json
+/Users/JonnyRiggs/workspace/csharp/collection/bin/Debug/netcoreapp2.1/collection.runtimeconfig.dev.json
+/Users/JonnyRiggs/workspace/csharp/collection/bin/Debug/netcoreapp2.1/collection.dll
+/Users/JonnyRiggs/workspace/csharp/collection/bin/Debug/netcoreapp2.1/collection.pdb
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.csprojAssemblyReference.cache
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.csproj.CoreCompileInputs.cache
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.AssemblyInfoInputs.cache
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.AssemblyInfo.cs
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.dll
+/Users/JonnyRiggs/workspace/csharp/collection/obj/Debug/netcoreapp2.1/collection.pdb
